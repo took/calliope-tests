@@ -1,11 +1,17 @@
 # calliope-tests
-Some first simple tests with the Calliope
+Einge einfache Beispiel-Programm für das Calliope-Board.
 
-Use [https://lab.open-roberta.org/] to edit
 
-See
-[http://calliope.cc/]
-[https://github.com/calliope-mini/]
+Siehe auch:
+* [http://calliope.cc/]
+* [https://github.com/calliope-mini/]
+
+## How to use
+
+* Die Datei [https://github.com/took/calliope-tests/blob/master/rainbow/NEPOprog.hex] runterladen und merken, wo man sie auf der eigenen Festplatte gespeichert hat. 
+* Auf [https://lab.open-roberta.org/] auswählen: Calliope, dann genauer Auswählen: Calliope 2017
+* Dann auf dieser Webseite links oben klicken auf: Bearbeiten -> importiere Programm
+* Und dort dann die runtergeladene Datei auf der eigenen Festplatte auswählen
 
 ## Copyleft
 
