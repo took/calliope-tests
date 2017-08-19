@@ -1,6 +1,5 @@
 # calliope-tests
-Einge einfache Beispiel-Programm für das Calliope-Board.
-
+Einge einfache Beispiel-Programme für das Calliope-Board.
 
 Siehe auch:
 * [http://calliope.cc/]
@@ -13,6 +12,8 @@ Siehe auch:
 * Dann auf dieser Webseite links oben klicken auf: Bearbeiten -> importiere Programm
 * Und dort dann die runtergeladene Datei auf der eigenen Festplatte auswählen
 
+Nun kannst du das Programm wie gewohnt auf deinem Calliope-Board laufen lassen. Oder du testest das Programm zunächst im Simulator im Browser. 
+
 ## Copyleft
 
 Diese Beispiele sollen jedem zugänglich und nutzbar sein. Dafür scheint die GPL geeignet.
@@ -20,3 +21,11 @@ Diese Beispiele sollen jedem zugänglich und nutzbar sein. Dafür scheint die GP
 ### Einige Dateien in diesem Projekt wurden kopiert und unterliegen anderen Lizenzen
 
 * rainbow/HSV-RGB-comparison.svg Author en:user:Goffrie, GNU Free Documentation License, https://commons.wikimedia.org/wiki/File:HSV-RGB-comparison.svg
+
+## Pull-Requests
+
+Welcome!
+
+## FAQ
+
+TODO
