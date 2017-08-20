@@ -7,13 +7,13 @@ Siehe auch:
 
 ## How to use
 ### Beispiele direkt auf Calliope speichern
-So kannst du die Beispiele direkt auf deinem eigenen Calliope laufen lassen
+So kannst du die Beispiele direkt auf deinem eigenen Calliope laufen lassen:
 
 * Auf der Seite https://github.com/took/calliope-tests/blob/master/rainbow/NEPOprog.hex einen Rechts-Klick auf den Button "Raw" machen und dann angeben: "Ziel speichern unter..."
 * Den Download direkt auf dem Calliope speichern (Festplatte "MINI")
 
 ### In den Editor laden
-So kannst du die Beispiele im Simulator laufen lassen und selber verändern und dann auf deinem eigenen Calliope laufen lassen
+So kannst du die Beispiele im Simulator laufen lassen und selber verändern und dann auf deinem eigenen Calliope laufen lassen:
 
 * Die Datei https://github.com/took/calliope-tests/blob/master/rainbow/NEPOprog.xml runterladen und merken, wo man sie auf der eigenen Festplatte gespeichert hat. 
 * Auf https://lab.open-roberta.org/ auswählen: Calliope, dann genauer Auswählen: Calliope 2017
@@ -23,34 +23,31 @@ So kannst du die Beispiele im Simulator laufen lassen und selber verändern und 
 ## Beispiele
 
 ### Rainbow
-
-Schwierigkeit: Fortgeschritten
+_Schwierigkeit: Fortgeschritten_
 
 Zeigt auf der RGB-LED vom Calliope-Board im Verlauf von eingen Sekunden alle Regenbogenfarben an.
 
 Siehe auch README.md im entsprechenden Ordner.
 
 ### Temperaturanzeige
-
-Schwierigkeit: Sehr einfach
+_Schwierigkeit: Sehr einfach_
 
 Zeigt die aktuell gemessene Temperatur als Lauftext in der 5x5-Matrix an.
 
 ### Temperaturwarnung
-
-Schwierigkeit: Mittel
+_Schwierigkeit: Mittel_
 
 Gibt Warn-Ton ab, wenn der Temperatur-Sensor mehr als 7 Grad mißt. Signalisiert mit Rot blinkender LED Temperaturen über 5 Grad. Ansonsten zeigt die RGB-LED duch ein grünes Blinken betriebsbereitschaft an.
 
 ### Einfache Bildgalerie
-Schwierigkeit: Einfach
+_Schwierigkeit: Einfach_
 
 Sehr einfache Version einer Bildgalerie. Button B zeigt das jeweils nächste Bild.
 
 ### Fortgeschrittene Bildgalerie
-Schwierigkeit: Fortgeschritten
+_Schwierigkeit: Fortgeschritten_
 
-Bildgalerie mit Vor- und Zurück-Button (A und B)
+Bildgalerie mit Zurück- und Vor-Button (A und B)
 
 
 ## Copyleft
