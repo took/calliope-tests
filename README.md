@@ -29,26 +29,26 @@ Zeigt auf der RGB-LED vom Calliope-Board im Verlauf von eingen Sekunden alle Reg
 
 Siehe auch README.md im entsprechenden Ordner.
 
-### [Temperaturanzeige](https://github.com/took/calliope-tests/tree/master/temperaturanzeige)
+### [Temperaturanzeige](./temperaturanzeige)
 _Schwierigkeit: Sehr einfach_
 
 ![alt text](https://github.com/took/calliope-tests/blob/master/temperaturanzeige/Screenshot.png "Temperaturanzeige")
 
 Zeigt die aktuell gemessene Temperatur als Lauftext in der 5x5-Matrix an.
 
-### [Temperaturwarnung](https://github.com/took/calliope-tests/tree/master/temperaturwarnung)
+### [Temperaturwarnung](./temperaturwarnung)
 _Schwierigkeit: Mittel_
 
 Gibt Warn-Ton ab, wenn der Temperatur-Sensor mehr als 7 Grad mißt. Signalisiert mit Rot blinkender LED Temperaturen über 5 Grad. Ansonsten zeigt die RGB-LED duch ein grünes Blinken betriebsbereitschaft an.
 
-### [Einfache Bildgalerie](https://github.com/took/calliope-tests/tree/master/bildgalerie-einfach)
+### [Einfache Bildgalerie](./bildgalerie-einfach)
 _Schwierigkeit: Einfach_
 
 ![alt text](https://github.com/took/calliope-tests/blob/master/bildgalerie-einfach/Screenshot.png "Einfache Bildgalerie")
 
 Sehr einfache Version einer Bildgalerie. Button B zeigt das jeweils nächste Bild.
 
-### [Fortgeschrittene Bildgalerie](https://github.com/took/calliope-tests/tree/master/bildgalerie-fortgeschritten)
+### [Fortgeschrittene Bildgalerie](./bildgalerie-fortgeschritten)
 _Schwierigkeit: Fortgeschritten_
 
 Bildgalerie mit Zurück- und Vor-Button (A und B)
