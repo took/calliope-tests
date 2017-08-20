@@ -12,7 +12,7 @@ In Abhängigkeit von dem Wert dieser globale Variable "step" werden 3 Werte bere
 Zur Berechnung der Rot-, Grün- und Blau-Werte gibt es 6 verschiedene Abschnitte, wie in diesem Bild zu erkennen:
 
 https://upload.wikimedia.org/wikipedia/commons/5/5d/HSV-RGB-comparison.svg
-![alt text](./HSV-RGB-comparison.svg "Author en:user:Goffrie, GNU Free Documentation License")
+![alt text](https://github.com/took/calliope-tests/blob/master/rainbow/HSV-RGB-comparison.svg "Author en:user:Goffrie, GNU Free Documentation License")
 
 Zunächst ist Rot bei voller Leuchtstärke (255) und Grün und Blau abgeschaltet (0).
 
