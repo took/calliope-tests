@@ -22,29 +22,33 @@ So kannst du die Beispiele im Simulator laufen lassen und selber verändern und 
 
 ## Beispiele
 
-### Rainbow
+### [Rainbow](./rainbow)
 _Schwierigkeit: Fortgeschritten_
 
 Zeigt auf der RGB-LED vom Calliope-Board im Verlauf von eingen Sekunden alle Regenbogenfarben an.
 
 Siehe auch README.md im entsprechenden Ordner.
 
-### Temperaturanzeige
+### [Temperaturanzeige](https://github.com/took/calliope-tests/tree/master/temperaturanzeige)
 _Schwierigkeit: Sehr einfach_
+
+![alt text](https://github.com/took/calliope-tests/blob/master/temperaturanzeige/Screenshot.png "Temperaturanzeige")
 
 Zeigt die aktuell gemessene Temperatur als Lauftext in der 5x5-Matrix an.
 
-### Temperaturwarnung
+### [Temperaturwarnung](https://github.com/took/calliope-tests/tree/master/temperaturwarnung)
 _Schwierigkeit: Mittel_
 
 Gibt Warn-Ton ab, wenn der Temperatur-Sensor mehr als 7 Grad mißt. Signalisiert mit Rot blinkender LED Temperaturen über 5 Grad. Ansonsten zeigt die RGB-LED duch ein grünes Blinken betriebsbereitschaft an.
 
-### Einfache Bildgalerie
+### [Einfache Bildgalerie](https://github.com/took/calliope-tests/tree/master/bildgalerie-einfach)
 _Schwierigkeit: Einfach_
+
+![alt text](https://github.com/took/calliope-tests/blob/master/bildgalerie-einfach/Screenshot.png "Einfache Bildgalerie")
 
 Sehr einfache Version einer Bildgalerie. Button B zeigt das jeweils nächste Bild.
 
-### Fortgeschrittene Bildgalerie
+### [Fortgeschrittene Bildgalerie](https://github.com/took/calliope-tests/tree/master/bildgalerie-fortgeschritten)
 _Schwierigkeit: Fortgeschritten_
 
 Bildgalerie mit Zurück- und Vor-Button (A und B)
